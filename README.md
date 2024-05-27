@@ -3,6 +3,9 @@ Step 2: create a s3 bucket with the name "nirmal-amazon-project"
 Step 3: change the correct name of the s3 bucket in the json file.
 Step 4: Upload the download data file and the json file given by BrightData into the S3 Bucket.
 Step 5: go the aws console, and open quicksight.
+Step 6: sign for quicksight, if you are new and can cancel the subcription 30 days before.
+step 7: choose Amazon S3 and choose the bucket created and give finish.
+Step 8: the quicksight account gets created instantly.
 
 
 
