@@ -6,6 +6,12 @@ Step 5: go the aws console, and open quicksight.
 Step 6: sign for quicksight, if you are new and can cancel the subcription 30 days before.
 step 7: choose Amazon S3 and choose the bucket created and give finish.
 Step 8: the quicksight account gets created instantly.
+Step 9: click on dataset, new dataset and choose S3. 
+Step 10: go over to the console and choose the bucket that we have created. "nirmal-aws-project" and choose the manifest file.
+step 11: select the "COPY S3 URL" Option.
+step 12: give the URL and choose connect.
+step 13: give visualize.
+step14: click create and the data gets set up.
 
 
 
