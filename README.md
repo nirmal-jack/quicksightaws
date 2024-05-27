@@ -12,6 +12,9 @@ step 11: select the "COPY S3 URL" Option.
 step 12: give the URL and choose connect.
 step 13: give visualize.
 step14: click create and the data gets set up.
+step 15: drag and drop the colum brand inside the graph.
+step 16: now to arrange the brands in ascending order, we can see which brands are the most popular, click on brands on the graph>> sort options>> ascending
+
 
 
 
