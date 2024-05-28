@@ -12,8 +12,8 @@
 - SignUp for quicksight, if you are new and can cancel the subcription 30 days before.
 - Choose Amazon S3 and choose the bucket created and give finish.
 - The quicksight account gets created instantly.
-   (![quicksight login](https://github.com/nirmal-jack/quicksightaws/assets/170439621/c7287a5c-7944-4ff0-9662-f7b7e899f806)
-)
+   ![quicksight login](https://github.com/nirmal-jack/quicksightaws/assets/170439621/c7287a5c-7944-4ff0-9662-f7b7e899f806)
+
 - Click on dataset, new dataset and choose S3.
   ![new dataset](https://github.com/nirmal-jack/quicksightaws/assets/170439621/baf7e107-8b49-43ab-be3f-9dc8360de365)
 
@@ -27,8 +27,19 @@
 
   
 - Select visualize.
+
+
+![visualize](https://github.com/nirmal-jack/quicksightaws/assets/170439621/de399031-1df1-4f80-8592-2340fc541643)
+
 - Click create and the data gets set up.
+
+  ![create](https://github.com/nirmal-jack/quicksightaws/assets/170439621/d8db624a-7ee2-4d82-9cc3-4c263a7083b0)
+
 - Drag and drop the colum brand inside the graph.
+
+![brand](https://github.com/nirmal-jack/quicksightaws/assets/170439621/34daa6d5-726b-47f5-9395-120674162376)
+
+
 - Now to arrange the brands in ascending order, we can see which brands are the most popular, click on brands on the graph>> sort options>> ascending.
 
 
