@@ -5,11 +5,9 @@
   ![s3 bucket](https://github.com/nirmal-jack/quicksightaws/assets/170439621/0b6363ed-6ed7-4d7d-bd2a-2befed963de1)
  - Change the correct name of the s3 bucket in the json file.
 - Upload the downloaded data file and the json file given by BrightData into the S3 Bucket.
--
-(![uploaded files](https://github.com/nirmal-jack/quicksightaws/assets/170439621/159ce0ba-04de-4cd7-b98d-f56bbc370ac3)
-)
-(![updated files](https://github.com/nirmal-jack/quicksightaws/assets/170439621/99622a20-2431-4e5d-b189-05ba8cec1dcb)
-)
+
+![uploaded files](https://github.com/nirmal-jack/quicksightaws/assets/170439621/159ce0ba-04de-4cd7-b98d-f56bbc370ac3))(![updated files](https://github.com/nirmal-jack/quicksightaws/assets/170439621/99622a20-2431-4e5d-b189-05ba8cec1dcb)
+
 - Go the aws console, and open quicksight.
 - SignUp for quicksight, if you are new and can cancel the subcription 30 days before.
 - Choose Amazon S3 and choose the bucket created and give finish.
