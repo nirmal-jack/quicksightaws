@@ -2,7 +2,7 @@
 
 -  Download the top 50 selling brands in the last month data using BrightData. Bright data gives us the real-time data to keep the projects more interesting.
 -  Create a s3 bucket with the name "nirmal-amazon-project"
-[![s3 bucket image](/![image](https://github.com/nirmal-jack/quicksightaws/assets/170439621/2c25658a-cc2b-4c8b-a731-e8caea3cb129)
+[![s3 bucket image](/![image](./https://github.com/nirmal-jack/quicksightaws/assets/170439621/2c25658a-cc2b-4c8b-a731-e8caea3cb129)
 )
  - Change the correct name of the s3 bucket in the json file.
 - Upload the download data file and the json file given by BrightData into the S3 Bucket.
